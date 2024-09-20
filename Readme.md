@@ -10,4 +10,4 @@ Smart Homes is a e-commerce application where users can create and login into th
     1. Start Tomcat Server
     2. Start MongoDB Server
     3. Start MySQL Server
-    4. Hit http://localhost:8080/SmartHomes_2/ 
+    4. Hit http://localhost:8080/SmartHomes/ 
